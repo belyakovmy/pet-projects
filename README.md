@@ -1,2 +1,2 @@
-# pet-projects
+# Pet-projects
 Учебные проекты по анализу данных.
